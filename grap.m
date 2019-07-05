@@ -1,5 +1,5 @@
 clc;
-clear;
+clear; % clear workspace
 cd('C:/xu/'); % *set up your workspace, where you can put this script,saved images and results sheets.*
 
 % for one directory files, the original files are vsi type, the result files are jpg type.*
